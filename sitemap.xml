@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ceasarselectric.com/</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ceasarselectric.com/</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <url><loc>https://ceasarselectric.com/services/</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://ceasarselectric.com/services/residential-electrician.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://ceasarselectric.com/services/commercial-electrician.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -39,9 +39,10 @@
   <url><loc>https://ceasarselectric.com/industries/medical-dental.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ceasarselectric.com/industries/property-management.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ceasarselectric.com/industries/offices-commercial.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://ceasarselectric.com/why-choose-us.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://ceasarselectric.com/gallery.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://ceasarselectric.com/contact.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceasarselectric.com/why-choose-us.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ceasarselectric.com/gallery.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ceasarselectric.com/contact.html</loc><lastmod>2026-07-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceasarselectric.com/privacy.html</loc><lastmod>2026-07-31</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
   <url><loc>https://ceasarselectric.com/blog/</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://ceasarselectric.com/blog/signs-your-lake-charles-home-needs-a-panel-upgrade.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ceasarselectric.com/blog/storm-ready-electrical-hurricane-season-lake-charles.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
